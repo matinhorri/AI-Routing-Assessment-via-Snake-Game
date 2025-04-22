@@ -1,7 +1,8 @@
 # CSCI 4478 - Dr Vahid Behzadan
 # Name: game.py
 # Description: Classes to run a game of snake
-# Reference: https://www.youtube.com/watch?v=CD4qAhfFuLo&t=1734s
+# The following functions and classes was adapted fromReference: https://www.youtube.com/watch?v=CD4qAhfFuLo&t=1734s
+# We modiefed and add new classes forr routing strtegy and algorithm
 # Reference: https://pastebin.com/embed_js/jB6k06hG
 # Revision: 4/22/2021
 
